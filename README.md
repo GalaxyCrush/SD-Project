@@ -64,5 +64,6 @@ __Note__:
 
 ## Note
 
-This work was carried out and tested using the WSL: Ubuntu system in Visual Studio Code
+This work was carried out and tested using the WSL: Ubuntu system in Visual Studio Code.
+
 The final grade was 20 out of 20.
